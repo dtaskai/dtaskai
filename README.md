@@ -3,4 +3,4 @@
 - 🎓 Expected to finish in '22 January
 - 💻 Currently learning Flutter and Dart
 - 💼 Interested in Junior Software Developer and Junior DevOps positions (able to relocate)
-- 🔎 You can contact me using my e-mail address or you can just send me message on [LinkedIn](https://www.linkedin.com/in/dtaskai/)
+- 🔎 You can contact me using my e-mail address or you can just send me a message on [LinkedIn](https://www.linkedin.com/in/dtaskai/)
